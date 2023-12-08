@@ -28,7 +28,7 @@ Hello everyone :)  I would like to share with you my solution to the QR code com
 
 ### Links
 
-- [solution URL](https://github.com/HosseinHeydarpour/qr-code-component)
+- [Solution URL](https://github.com/HosseinHeydarpour/qr-code-component)
 - [Live site URL](https://hosseinheydarpour.github.io/qr-code-component/)
 
 ## My process
