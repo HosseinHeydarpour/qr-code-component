@@ -28,8 +28,8 @@ Hello everyone :)  I would like to share with you my solution to the QR code com
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/HosseinHeydarpour/qr-code-component)
+- Live Site URL: [Add live site URL here](https://hosseinheydarpour.github.io/qr-code-component/)
 
 ## My process
 
