@@ -22,7 +22,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Hello everyone :)  I would like to share with you my solution to the QR code component challenge from Frontend Mentor. It is a simple yet elegant QR code component that I built using SASS and Flexbox. I used SASS to write cleaner and more modular code, and Flexbox to create the layout. I hope you like it and I appreciate any feedback you may have. Thank you for your time and attention.
 
 ### Screenshot
+![Desktop Design](screenshots/desktop.png)
 
+![Mobile Design](screenshots/mobile.png)
 
 
 
